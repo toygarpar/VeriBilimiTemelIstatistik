@@ -1,0 +1,101 @@
+Tarih,UrunID,Fiyat,SatisAdedi,Kategori,Sehir
+2023-09-02,Ürün_4,109.32,11,Giyim,Ankara
+2024-10-05,Ürün_5,445.69,2,Giyim,İstanbul
+2024-11-16,Ürün_3,449.49,19,Giyim,İzmir
+2024-04-07,Ürün_1,194.69,16,Ev Eşyası,İzmir
+2024-09-06,Ürün_5,123.98,14,Ev Eşyası,Bursa
+2024-10-16,Ürün_2,267.56,14,Ev Eşyası,İzmir
+2023-12-12,Ürün_2,378.82,13,Elektronik,İstanbul
+2023-05-12,Ürün_5,178.1,1,Elektronik,İzmir
+2023-08-06,Ürün_4,400.74,6,Giyim,İzmir
+2023-04-17,Ürün_1,265.28,3,Giyim,İzmir
+2024-11-16,Ürün_5,162.57,4,Ev Eşyası,İzmir
+2024-10-07,Ürün_1,451.84,7,Ev Eşyası,Ankara
+2024-04-04,Ürün_1,383.39,10,Ev Eşyası,Ankara
+2024-05-03,Ürün_4,159.59,18,Elektronik,Bursa
+2024-04-27,Ürün_4,304.61,18,Giyim,İzmir
+2023-02-09,Ürün_5,491.14,15,Elektronik,Bursa
+2024-03-18,Ürün_3,124.61,15,Elektronik,Bursa
+2024-12-21,Ürün_1,289.24,7,Giyim,İzmir
+2024-01-09,Ürün_2,439.54,7,Giyim,İstanbul
+2023-09-17,Ürün_5,276.71,12,Giyim,Ankara
+2023-06-06,Ürün_4,338.73,1,Giyim,İzmir
+2024-07-06,Ürün_4,108.31,13,Elektronik,Ankara
+2023-03-04,Ürün_5,379.77,11,Ev Eşyası,Bursa
+2024-06-19,Ürün_3,419.2,15,Elektronik,Bursa
+2024-07-05,Ürün_5,241.35,13,Elektronik,Ankara
+2024-08-01,Ürün_3,429.88,10,Elektronik,İstanbul
+2024-05-25,Ürün_2,487.98,2,Elektronik,İstanbul
+2024-12-29,Ürün_1,174.44,16,Elektronik,İstanbul
+2024-03-13,Ürün_4,83.88,14,Elektronik,Bursa
+2024-03-08,Ürün_4,222.42,3,Ev Eşyası,Bursa
+2023-05-22,Ürün_5,447.45,12,Elektronik,Bursa
+2024-04-26,Ürün_2,238.51,20,Giyim,İzmir
+2023-08-02,Ürün_5,199.07,14,Giyim,İzmir
+2023-09-01,Ürün_5,132.97,16,Giyim,Ankara
+2024-04-15,Ürün_3,387.48,9,Elektronik,İzmir
+2023-08-06,Ürün_5,374.21,10,Elektronik,İzmir
+2024-06-10,Ürün_4,496.28,9,Elektronik,İzmir
+2024-10-30,Ürün_5,485.22,7,Ev Eşyası,İstanbul
+2024-11-29,Ürün_1,349.98,3,Ev Eşyası,Ankara
+2023-03-05,Ürün_3,291.52,15,Giyim,İzmir
+2024-05-06,Ürün_5,250.89,4,Ev Eşyası,Ankara
+2023-01-03,Ürün_3,438.52,14,Ev Eşyası,İzmir
+2023-09-30,Ürün_2,367.16,4,Elektronik,Ankara
+2023-11-13,Ürün_3,144.4,5,Ev Eşyası,Bursa
+2024-08-24,Ürün_2,446.92,3,Giyim,İstanbul
+2023-06-16,Ürün_2,319.57,5,Giyim,İstanbul
+2024-03-27,Ürün_1,51.82,4,Ev Eşyası,İzmir
+2024-10-29,Ürün_2,277.18,3,Ev Eşyası,İzmir
+2024-11-25,Ürün_5,73.8,5,Ev Eşyası,İstanbul
+2024-01-16,Ürün_5,378.64,10,Giyim,İzmir
+2024-04-01,Ürün_3,93.91,5,Giyim,İzmir
+2023-02-21,Ürün_5,497.6,2,Elektronik,İstanbul
+2024-07-09,Ürün_4,65.64,16,Giyim,İstanbul
+2023-05-02,Ürün_5,322.16,7,Ev Eşyası,İstanbul
+2023-02-27,Ürün_2,176.28,4,Elektronik,Ankara
+2023-11-27,Ürün_1,67.12,9,Giyim,Ankara
+2023-03-06,Ürün_3,440.93,6,Ev Eşyası,İstanbul
+2023-07-09,Ürün_1,171.88,14,Ev Eşyası,İzmir
+2023-09-11,Ürün_5,199.33,15,Elektronik,İstanbul
+2024-05-20,Ürün_4,109.79,3,Elektronik,Ankara
+2023-11-28,Ürün_4,361.98,13,Ev Eşyası,İstanbul
+2023-07-10,Ürün_5,320.76,7,Elektronik,Bursa
+2023-01-01,Ürün_4,225.86,3,Ev Eşyası,İstanbul
+2023-08-30,Ürün_5,197.97,17,Giyim,Ankara
+2023-11-12,Ürün_4,53.45,1,Elektronik,Ankara
+2024-12-26,Ürün_3,423.93,4,Elektronik,Ankara
+2023-05-19,Ürün_3,387.6,16,Elektronik,Ankara
+2024-07-29,Ürün_5,229.05,8,Elektronik,İzmir
+2024-07-20,Ürün_3,270.26,11,Ev Eşyası,Ankara
+2023-01-03,Ürün_5,309.1,16,Elektronik,İzmir
+2023-04-10,Ürün_1,157.42,14,Elektronik,Bursa
+2024-06-24,Ürün_2,125.3,6,Ev Eşyası,Ankara
+2023-08-29,Ürün_1,73.3,2,Elektronik,Ankara
+2023-06-18,Ürün_4,184.01,20,Giyim,Ankara
+2023-03-28,Ürün_3,329.43,3,Giyim,İzmir
+2023-09-04,Ürün_3,183.62,18,Giyim,İstanbul
+2023-12-11,Ürün_3,62.33,8,Elektronik,Ankara
+2024-01-04,Ürün_1,279.44,2,Elektronik,Bursa
+2023-06-27,Ürün_3,428.4,5,Elektronik,Bursa
+2024-03-22,Ürün_3,370.12,10,Ev Eşyası,İzmir
+2023-01-31,Ürün_4,495.72,10,Elektronik,Ankara
+2024-06-07,Ürün_1,249.7,6,Giyim,İzmir
+2024-08-07,Ürün_1,195.7,2,Ev Eşyası,İzmir
+2024-07-05,Ürün_5,448.91,9,Ev Eşyası,İstanbul
+2024-03-13,Ürün_2,318.22,3,Ev Eşyası,Bursa
+2023-12-06,Ürün_2,296.5,4,Ev Eşyası,İzmir
+2023-06-04,Ürün_1,127.9,12,Elektronik,Ankara
+2024-11-18,Ürün_2,257.3,14,Ev Eşyası,Ankara
+2023-04-08,Ürün_3,124.87,10,Elektronik,İstanbul
+2023-07-05,Ürün_2,100.76,4,Ev Eşyası,İstanbul
+2024-04-16,Ürün_5,380.96,14,Ev Eşyası,Ankara
+2023-01-17,Ürün_5,453.75,13,Giyim,İzmir
+2024-11-26,Ürün_3,373.98,18,Elektronik,Ankara
+2023-10-22,Ürün_5,144.51,20,Ev Eşyası,İzmir
+2024-03-14,Ürün_2,466.03,1,Giyim,Bursa
+2023-07-03,Ürün_4,446.61,11,Elektronik,İstanbul
+2024-01-16,Ürün_3,98.83,15,Elektronik,Ankara
+2024-08-13,Ürün_2,324.32,1,Giyim,İzmir
+2024-02-09,Ürün_3,156.27,3,Giyim,Bursa
+2023-11-17,Ürün_5,189.35,15,Ev Eşyası,Bursa
