@@ -1,0 +1,224 @@
+{
+  "site_title": "Veri Bilimi İçin Temel İstatistik",
+  "author": "toygarpar",
+  "intro": "Veri Bilimi için Temel İstatistik",
+  "posts": [
+    {
+      "title": "Veri Ne Demek?",
+      "date": "2025-05-16",
+      "summary": "Veri analizinde en küçük birim olan gözlem biriminin ne olduğunu ve neden önemli olduğunu açıklar.",
+      "post": "posts/01-veri-ne-demek.ipynb",
+      "tags": ["gözlem", "birim", "veri"]
+    },
+    {
+      "title": "Veri Bilimi Nedir?",
+      "date": "2025-05-17",
+      "summary": "Veri biliminin tanımı, kapsamı ve diğer alanlarla farkları.",
+      "post": "posts/02-veri-bilimi-nedir.ipynb",
+      "tags": ["veri bilimi", "tanım", "analiz"]
+    },
+    {
+      "title": "İstatistik Nedir?",
+      "date": "2025-05-18",
+      "summary": "İstatistiğin tanımı, kullanım amacı ve veri bilimiyle ilişkisi.",
+      "post": "posts/03-istatistik-nedir.ipynb",
+      "tags": ["istatistik", "veri bilimi", "karar verme"]
+    },
+    {
+      "title": "İstatistik ve Veri Bilimi",
+      "date": "2025-05-19",
+      "summary": "Veri bilimi sürecinde istatistiğin rolü ve hangi adımlarda kullanıldığı.",
+      "post": "posts/04-istatistik-ve-veri-bilimi.ipynb",
+      "tags": ["veri bilimi", "istatistiksel yöntemler", "modelleme"]
+    },
+    {
+      "title": "Temel İstatistik Kavramları",
+      "date": "2025-05-20",
+      "summary": "İstatistiksel analizde sık kullanılan temel terimler ve tanımları.",
+      "post": "posts/05-temel-istatistik-kavramlari.ipynb",
+      "tags": ["ortalama", "medyan", "mod", "ölçüm"]
+    },
+    {
+      "title": "Birim ve Ana Kütle (Popülasyon)",
+      "date": "2025-05-21",
+      "summary": "Tüm hedef kitlenin temsil edildiği anakütlenin tanımı ve önemi.",
+      "post": "posts/06-birim-ve-anakutle.ipynb",
+      "tags": ["popülasyon", "ana kütle", "istatistik"]
+    },
+    {
+      "title": "Örneklem ve Gözlem",
+      "date": "2025-05-22",
+      "summary": "Anakütleden nasıl örneklem alınır? Neden gözlem önemlidir?",
+      "post": "posts/07-orneklem-ve-gozlem.ipynb",
+      "tags": ["örneklem", "gözlem", "veri toplama"]
+    },
+    {
+      "title": "Değişken Nedir?",
+      "date": "2025-05-23",
+      "summary": "Veri biliminde değişken kavramı, türleri ve ölçüm şekilleri.",
+      "post": "posts/08-degisken.ipynb",
+      "tags": ["değişken", "türler", "veri yapısı"]
+    },
+    {
+      "title": "Ölçek Türleri",
+      "date": "2025-05-24",
+      "summary": "Nominal, ordinal, aralıklı ve oran ölçeklerinin özellikleri ve farkları.",
+      "post": "posts/09-olcek-ve-olcek-turleri.ipynb",
+      "tags": ["ölçek türleri", "ölçüm düzeyleri", "veri analiz"]
+    },
+    {
+      "title": "Betimsel İstatistik",
+      "date": "2025-05-25",
+      "summary": "Veriyi özetlemek için kullanılan betimsel istatistik yöntemleri.",
+      "post": "posts/10-betimsel-istatistik.ipynb",
+      "tags": ["betimsel", "özetleme", "frekans dağılımı"]
+    },
+    {
+      "title": "Merkezi Eğilim Ölçüleri",
+      "date": "2025-05-26",
+      "summary": "Ortalama, medyan, mod gibi merkezi eğilim ölçüleri ve yorumlanması.",
+      "post": "posts/11-merkezi-egilim.ipynb",
+      "tags": ["ortalama", "medyan", "mod", "eğilim"]
+    },
+    {
+      "title": "Varyans ve Standart Sapma",
+      "date": "2025-05-27",
+      "summary": "Dağılımın yayılımını gösteren varyans ve standart sapma kavramları.",
+      "post": "posts/12-varyans-std.ipynb",
+      "tags": ["varyans", "standart sapma", "yayılım"]
+    },
+    {
+      "title": "Kovaryans ve Korelasyon",
+      "date": "2025-05-28",
+      "summary": "İki değişken arasındaki ilişkiyi gösteren kovaryans ve korelasyon kavramları.",
+      "post": "posts/13-kovaryans-korelasyon.ipynb",
+      "tags": ["kovaryans", "korelasyon", "ilişki"]
+    },
+    {
+      "title": "Güven Aralığı",
+      "date": "2025-05-29",
+      "summary": "Gerçek ortalamanın içinde bulunduğu olasılıklı aralık nedir?",
+      "post": "posts/14-guven-araligi.ipynb",
+      "tags": ["güven aralığı", "tahmin", "hipotez testi"]
+    },
+    {
+      "title": "Olasılık Nedir?",
+      "date": "2025-05-30",
+      "summary": "Belirsizlik altında karar vermek için olasılık kavramı ve uygulamaları.",
+      "post": "posts/15-olasilik.ipynb",
+      "tags": ["olasılık", "deney", "sonuç", "özellik"]
+    },
+    {
+      "title": "Dağılımlar ve Özellikleri",
+      "date": "2025-05-31",
+      "summary": "Bernoulli, Binom, Poisson, Normal dağılımlar ve gerçek hayatta kullanımı.",
+      "post": "posts/16-dagilimlar.ipynb",
+      "tags": ["dağılım", "normal dağılım", "Poisson", "Bernoulli"]
+    },
+    {
+      "title": "Hipotez Nedir?",
+      "date": "2025-06-01",
+      "summary": "İddia mı, yoksa rastgelelik mi? Sayıların dilini anlamak için hipotez kurma.",
+      "post": "posts/17-hipotez.ipynb",
+      "tags": ["hipotez", "H₀", "H₁", "iddia"]
+    },
+    {
+      "title": "Hipotez Türleri",
+      "date": "2025-06-02",
+      "summary": "Basit, karmaşık, tek yönlü ve çift yönlü hipotezler ve kullanım alanları.",
+      "post": "posts/18-hipotezler-ve-turleri.ipynb",
+      "tags": ["hipotez türleri", "null hipotez", "alternatif hipotez"]
+    },
+    {
+      "title": "p-değeri Nedir?",
+      "date": "2025-06-03",
+      "summary": "Sayıların şans eseri oluşma olasılığını gösteren p-değeri ve anlamlılık düzeyi.",
+      "post": "posts/19-p-value.ipynb",
+      "tags": ["p-değeri", "anlamlılık", "hipotez testi"]
+    },
+    {
+      "title": "Hipotez Testi Adımları",
+      "date": "2025-06-04",
+      "summary": "Hipotez testi sürecinin 5 adımda açıklaması ve Python ile uygulamalı örnekler.",
+      "post": "posts/20-hipotez-testi-adimlari.ipynb",
+      "tags": ["hipotez testi", "karar verme", "test süreci"]
+    },
+    {
+      "title": "Tek Örneklem T-Testi",
+      "date": "2025-06-05",
+      "summary": "Bir örneklemin ortalaması ile teorik popülasyon ortalaması arasında fark var mı?",
+      "post": "posts/21-tek-orneklem-t-testi.ipynb",
+      "tags": ["t-testi", "ortalama testi", "bağımsızlık"]
+    },
+    {
+      "title": "Tek Örneklem Oran Testi",
+      "date": "2025-06-06",
+      "summary": "Kategorik verilerde oran testi: Z-testi ile fark sınama.",
+      "post": "posts/22-tek-orneklem-oran-testi.ipynb",
+      "tags": ["oran testi", "z-testi", "kategorik veri"]
+    },
+    {
+      "title": "Bağımsız İki Örneklem T-Testi",
+      "date": "2025-06-07",
+      "summary": "İki bağımsız grubun ortalamaları arasında fark var mı? T-testi ile cevap buluyoruz.",
+      "post": "posts/23-bagimsiz-iki-orneklem-t-testi.ipynb",
+      "tags": ["bağımsız t-testi", "AB testi", "grup karşılaştırması"]
+    },
+    {
+      "title": "Bağımlı İki Örneklem T-Testi",
+      "date": "2025-06-08",
+      "summary": "Aynı birey üzerinde yapılan öncesi-sonrası testlerde kullanılır.",
+      "post": "posts/24-bagimli-iki-orneklem-t-testi.ipynb",
+      "tags": ["paired t-test", "öncesi-sonrası", "eşleştirilmiş test"]
+    },
+    {
+      "title": "İki Örneklem Oran Testi",
+      "date": "2025-06-09",
+      "summary": "Kategorik iki grubun oranları arasında fark var mı? Z-testi ile sınama.",
+      "post": "posts/25-iki-orneklem-oran-testi.ipynb",
+      "tags": ["oran testi", "Z-testi", "kategorik veri"]
+    },
+    {
+      "title": "Varyans Analizi (ANOVA)",
+      "date": "2025-06-10",
+      "summary": "Üç veya daha fazla grubun ortalamaları arasında fark var mı? ANOVA bunu gösteriyor.",
+      "post": "posts/26-varyans-analizi.ipynb",
+      "tags": ["ANOVA", "grup karşılaştırma", "F-testi"]
+    },
+    {
+      "title": "Korelasyon Nedir?",
+      "date": "2025-06-11",
+      "summary": "Değişkenler arası doğrusal ilişki, yönü ve şiddeti nasıl anlaşılır?",
+      "post": "posts/27-korelasyon-analizi.ipynb",
+      "tags": ["Pearson", "Spearman", "Kendall", "ilişki"]
+    },
+    {
+      "title": "Regresyon Nedir?",
+      "date": "2025-06-12",
+      "summary": "Bir değişkeni başka bir değişkenle tahmin etme süreci: regresyon analizi.",
+      "post": "posts/28-regresyon-analizi.ipynb",
+      "tags": ["regresyon", "doğrusal ilişki", "tahmin"]
+    },
+    {
+      "title": "Güç Analizi",
+      "date": "2025-06-13",
+      "summary": "Kaç kişiye bakmalıyım? Karar alabilmek için güç analizi yapmalısın.",
+      "post": "posts/29-guc-analizi.ipynb",
+      "tags": ["power", "sample size", "alfa", "beta"]
+    },
+    {
+      "title": "Etki Büyüklüğü",
+      "date": "2025-06-14",
+      "summary": "İstatistiksel fark gerçekten önemli mi? Cohen’s d, Pearson r vs.",
+      "post": "posts/30-etki-buyuklugu.ipynb",
+      "tags": ["effect size", "Cohen's d", "pratik fark"]
+    },
+    {
+      "title": "Ki-Kare Testi",
+      "date": "2025-06-15",
+      "summary": "Kategorik verilerde bağımsızlık testi: Ki-kare ile fark sınama.",
+      "post": "posts/31-ki-kare-testi.ipynb",
+      "tags": ["chi-square", "bağımsızlık", "kategorik veri"]
+    }
+  ]
+}
