@@ -2,7 +2,7 @@
 
 ![Veri Bilimi ve İstatistik](https://img.shields.io/badge/Konu-Veri_Bilimi_ve_İstatistik-blue)
 
-[![GitHub](https://github.com/toygarpar/VeriBilimiTemelIstatistik)]
+
 
 Bu eğitim programı kendime referans kütüphanesi olarak ve  **veri bilimi alanında istatistiğin temelini atmak ve istatistiksel düşünme becerilerini geliştirmek** isteyen herkes için hazırlanmıştır.
 
